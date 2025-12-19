@@ -1,4 +1,3 @@
-simonenotenboom/admin/index.php#L1-400
 <?php
 session_start();
 
